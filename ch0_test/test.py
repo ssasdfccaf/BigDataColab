@@ -1,2 +1,2 @@
 print("hello python")
-# shift + f5 실행
+# ctrl + f5 : 실행.
